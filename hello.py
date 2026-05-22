@@ -1,1 +1,2 @@
-print("Hello Github! This is my first interaction, hope to interact more.")
+name = input("What is your name? ")
+print(f"Hello {name}, Nice to finally meet you!")
